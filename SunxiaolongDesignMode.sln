@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SingletonDesignMode", "SingletonDesignMode\SingletonDesignMode.vcxproj", "{B063EE9D-C724-4ADD-901A-32F672C6BBEA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleFactoryMode", "SimpleFactory\SimpleFactory.vcxproj", "{3042D051-D243-402D-8C41-21D876EB4711}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{B063EE9D-C724-4ADD-901A-32F672C6BBEA}.Release|x64.Build.0 = Release|x64
 		{B063EE9D-C724-4ADD-901A-32F672C6BBEA}.Release|x86.ActiveCfg = Release|Win32
 		{B063EE9D-C724-4ADD-901A-32F672C6BBEA}.Release|x86.Build.0 = Release|Win32
+		{3042D051-D243-402D-8C41-21D876EB4711}.Debug|x64.ActiveCfg = Debug|x64
+		{3042D051-D243-402D-8C41-21D876EB4711}.Debug|x64.Build.0 = Debug|x64
+		{3042D051-D243-402D-8C41-21D876EB4711}.Debug|x86.ActiveCfg = Debug|Win32
+		{3042D051-D243-402D-8C41-21D876EB4711}.Debug|x86.Build.0 = Debug|Win32
+		{3042D051-D243-402D-8C41-21D876EB4711}.Release|x64.ActiveCfg = Release|x64
+		{3042D051-D243-402D-8C41-21D876EB4711}.Release|x64.Build.0 = Release|x64
+		{3042D051-D243-402D-8C41-21D876EB4711}.Release|x86.ActiveCfg = Release|Win32
+		{3042D051-D243-402D-8C41-21D876EB4711}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
