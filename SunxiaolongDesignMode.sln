@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AdapterMode", "AdapterMode\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BridgeMode", "BridgeMode\BridgeMode.vcxproj", "{06ED74E2-AAEE-4D4C-B8AF-1C8838108BB9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ComPositeMode", "ComPositeMode\ComPositeMode.vcxproj", "{87A1637C-B055-4696-9CA6-F0B911ACC0D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{06ED74E2-AAEE-4D4C-B8AF-1C8838108BB9}.Release|x64.Build.0 = Release|x64
 		{06ED74E2-AAEE-4D4C-B8AF-1C8838108BB9}.Release|x86.ActiveCfg = Release|Win32
 		{06ED74E2-AAEE-4D4C-B8AF-1C8838108BB9}.Release|x86.Build.0 = Release|Win32
+		{87A1637C-B055-4696-9CA6-F0B911ACC0D0}.Debug|x64.ActiveCfg = Debug|x64
+		{87A1637C-B055-4696-9CA6-F0B911ACC0D0}.Debug|x64.Build.0 = Debug|x64
+		{87A1637C-B055-4696-9CA6-F0B911ACC0D0}.Debug|x86.ActiveCfg = Debug|Win32
+		{87A1637C-B055-4696-9CA6-F0B911ACC0D0}.Debug|x86.Build.0 = Debug|Win32
+		{87A1637C-B055-4696-9CA6-F0B911ACC0D0}.Release|x64.ActiveCfg = Release|x64
+		{87A1637C-B055-4696-9CA6-F0B911ACC0D0}.Release|x64.Build.0 = Release|x64
+		{87A1637C-B055-4696-9CA6-F0B911ACC0D0}.Release|x86.ActiveCfg = Release|Win32
+		{87A1637C-B055-4696-9CA6-F0B911ACC0D0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
