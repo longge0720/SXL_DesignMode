@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FacadeMode", "FacadeMode\Fa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FlyWeightMode", "FlyWeightMode\FlyWeightMode.vcxproj", "{DDB01A89-DF35-4810-BB6E-AC39E199A9E5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TemplateMode", "TemplateMode\TemplateMode.vcxproj", "{18A09B61-5CED-4BF7-A3F7-CDCAD294D474}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{DDB01A89-DF35-4810-BB6E-AC39E199A9E5}.Release|x64.Build.0 = Release|x64
 		{DDB01A89-DF35-4810-BB6E-AC39E199A9E5}.Release|x86.ActiveCfg = Release|Win32
 		{DDB01A89-DF35-4810-BB6E-AC39E199A9E5}.Release|x86.Build.0 = Release|Win32
+		{18A09B61-5CED-4BF7-A3F7-CDCAD294D474}.Debug|x64.ActiveCfg = Debug|x64
+		{18A09B61-5CED-4BF7-A3F7-CDCAD294D474}.Debug|x64.Build.0 = Debug|x64
+		{18A09B61-5CED-4BF7-A3F7-CDCAD294D474}.Debug|x86.ActiveCfg = Debug|Win32
+		{18A09B61-5CED-4BF7-A3F7-CDCAD294D474}.Debug|x86.Build.0 = Debug|Win32
+		{18A09B61-5CED-4BF7-A3F7-CDCAD294D474}.Release|x64.ActiveCfg = Release|x64
+		{18A09B61-5CED-4BF7-A3F7-CDCAD294D474}.Release|x64.Build.0 = Release|x64
+		{18A09B61-5CED-4BF7-A3F7-CDCAD294D474}.Release|x86.ActiveCfg = Release|Win32
+		{18A09B61-5CED-4BF7-A3F7-CDCAD294D474}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
