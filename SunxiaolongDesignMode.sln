@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FlyWeightMode", "FlyWeightM
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TemplateMode", "TemplateMode\TemplateMode.vcxproj", "{18A09B61-5CED-4BF7-A3F7-CDCAD294D474}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CommandMode", "CommandMode\CommandMode.vcxproj", "{2EC43BFF-5349-4A79-9F7E-490C5D9CDD89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{18A09B61-5CED-4BF7-A3F7-CDCAD294D474}.Release|x64.Build.0 = Release|x64
 		{18A09B61-5CED-4BF7-A3F7-CDCAD294D474}.Release|x86.ActiveCfg = Release|Win32
 		{18A09B61-5CED-4BF7-A3F7-CDCAD294D474}.Release|x86.Build.0 = Release|Win32
+		{2EC43BFF-5349-4A79-9F7E-490C5D9CDD89}.Debug|x64.ActiveCfg = Debug|x64
+		{2EC43BFF-5349-4A79-9F7E-490C5D9CDD89}.Debug|x64.Build.0 = Debug|x64
+		{2EC43BFF-5349-4A79-9F7E-490C5D9CDD89}.Debug|x86.ActiveCfg = Debug|Win32
+		{2EC43BFF-5349-4A79-9F7E-490C5D9CDD89}.Debug|x86.Build.0 = Debug|Win32
+		{2EC43BFF-5349-4A79-9F7E-490C5D9CDD89}.Release|x64.ActiveCfg = Release|x64
+		{2EC43BFF-5349-4A79-9F7E-490C5D9CDD89}.Release|x64.Build.0 = Release|x64
+		{2EC43BFF-5349-4A79-9F7E-490C5D9CDD89}.Release|x86.ActiveCfg = Release|Win32
+		{2EC43BFF-5349-4A79-9F7E-490C5D9CDD89}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
